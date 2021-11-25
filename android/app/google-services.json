@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25262960570",
+    "project_id": "efrikashopping",
+    "storage_bucket": "efrikashopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25262960570:android:c36b5688d4ae1fb970b783",
+        "android_client_info": {
+          "package_name": "Efrika.shopping_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25262960570-4imp429uc2lkjvp7m85cq5bpahksrids.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4zAwsSejBRj9nJrpmF2PnmjtlAdYwlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25262960570-4imp429uc2lkjvp7m85cq5bpahksrids.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
